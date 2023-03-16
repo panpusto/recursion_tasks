@@ -2,7 +2,7 @@ from tkinter import *
 
 window = Tk()
 window.title('Drawing a spiral')
-window.geometry('800x600')
+window.geometry('800x600+500+100')
 
 # default values
 paramAlpha = 20
